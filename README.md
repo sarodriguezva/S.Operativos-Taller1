@@ -5,8 +5,6 @@ IMPORTANTE!!
 
 Para que el ejecutable guardar funcione de manera correcta debe de guardar el data.csv proporcionado por el profesor en la carpeta files, con el nombre de "data.csv".
 
-Puede descargarse directamente en el siguiente link: https://drive.google.com/file/d/1IecpiEX0tKS-ls93lEw-11rJ3SSN7pcL/view?usp=sharing
-
 
 ¿Cómo correr el programa?
 
