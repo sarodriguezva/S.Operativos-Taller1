@@ -44,5 +44,7 @@ EXPLICACIÓN
 
 
 Cristhian David Mora Uribe cdmorau@unal.edu.co
+
 Santiago Rodríguez Vallejo sarodriguezva@unal.edu.co
+
 Javier Esteban Pacavita Galindo jpacavita@unal.edu.co
