@@ -15,7 +15,9 @@ COMANDOS
 
 
 make
+
 cd bin
+
 ./guardar
 
 Terminal 1 en la carpeta bin
@@ -33,9 +35,9 @@ o
 
 EXPLICACIÓN
 
-1. EJECUTAR EL COMANDO MAKE: Abrir la carpeta DBANDPROCESSINC en un terminal bash y ejecuto el comando " make", se crean todos los ejecutables y los *o en sus respectivas carpetas.
+1. EJECUTAR EL COMANDO MAKE: Abrir la carpeta en un terminal bash y ejecuto el comando " make", se crean todos los ejecutables y los *o en sus respectivas carpetas.
 
-2. EJECUTAR EL COMANDO ./guardar: En caso de no estar creada, la función guarda todos los datos de el .csv en un binario de manera ordenada según una funcion hash.
+2. EJECUTAR EL COMANDO ./guardar: En caso de no estar creada, la función guarda todos los datos de el .csv en un binario ("binM.bin") de manera ordenada según una funcion hash.
 
 3. EJECUTAR EL COMANDO ./interfaz: Activa la interfaz de usuario y guarda las entradas del mismo en el archivo de comunicacion.bin. Y luego se queda en espera de el dato de la media resultante en el mismo archivo.
 
