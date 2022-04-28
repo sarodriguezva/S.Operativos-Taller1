@@ -31,7 +31,8 @@ Terminal 2 en la carpeta bin
 
 o
 
-(Solo despues de haber ingresado los datos en interfa)
+(Solo despues de haber ingresado los datos en interfaz)
+
 ./buscar2
 
 EXPLICACIÓN
